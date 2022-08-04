@@ -12,9 +12,9 @@
 
 * Every command should be implemented in the Super user status
 
-0. sudo su
-1. roscd motor_controller
-2. rosrun motor_controller motor_controller
+ 1. sudo su
+ 2. roscd motor_controller
+ 3. rosrun motor_controller motor_controller
 
 ### Debugging
 
