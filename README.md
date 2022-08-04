@@ -6,11 +6,10 @@
 ### basic information
 
 1.The code is written in the ros neotic environment(20.04)
-2.
 
 ### How to launch
 
-* Every command should be implemented in the Super user status
+ Every command should be implemented in the Super user status
 
  1. sudo su
  2. roscd motor_controller
