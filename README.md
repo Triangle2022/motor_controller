@@ -13,6 +13,7 @@ http://wiki.ros.org/noetic/Installation/Ubuntu
 
  Every command should be implemented in the Super user status
 
+ 0. ifconfig -> to find your device and change the name of the deinfe in the "node_motor_controller.hpp"
  1. sudo su
  2. roscd motor_controller
  3. rosrun motor_controller motor_controller
@@ -20,7 +21,7 @@ http://wiki.ros.org/noetic/Installation/Ubuntu
 ### Debugging
 
 -1 slave founded! -> This means your slave has not been found
- slave founded! -> This means your slave has been found -> You are ready to Go
+
+ 1 slave founded! -> This means your slave has been found -> You are ready to Go
 
 
-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
